@@ -1,0 +1,22 @@
+.team-agroupment-container {
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+}
+.team-resume-text{
+    text-align: left;
+    width: 500px;
+    margin-top: 7px;
+    margin-left: auto;
+    margin-right: 80px;
+    padding-top: 10px;
+}
+#furia-team-image{
+    padding-top: 10px;
+    margin-left: 80px;
+    margin-right: auto;
+    margin-top: 7px;
+    height: 600px;
+    width: 600px;
+    border-radius: 25%;
+}

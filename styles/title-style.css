@@ -1,0 +1,14 @@
+.titles-by-team-container{
+    display: block;
+    text-align: center;
+    justify-content: center;
+    width:100%;
+    height: 600px;
+}
+#title-image-display{
+    background: rgb(175, 176, 170);
+    border: 1px dotted black;
+    border-radius: 26px;
+    height: 450px;
+    width: 500px;
+}
